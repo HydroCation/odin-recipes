@@ -1,0 +1,32 @@
+*{
+  text-align: center;
+
+}
+
+img{
+  height:300px;
+  width: auto;
+}
+
+ol,ul{
+  display: inline-block;
+}
+
+.pot{
+  font-family: Copperplate, fantasy;
+  color: brown;
+  background-color: cornsilk;
+
+}
+
+.pbm{
+  font-family: Arial, Helvetica, sans-serif;
+  color: orangered;
+  background-color: palegoldenrod;
+}
+
+.vsf{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: green;
+  background-color: antiquewhite;
+}
